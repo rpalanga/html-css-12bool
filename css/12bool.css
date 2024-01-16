@@ -16,6 +16,11 @@
     display: flex;
 }
 
+.column{
+    display: flex;
+    flex-direction: column;
+}
+
 /* classe test */
 
 /* .test{
@@ -26,9 +31,58 @@
 } */
 
 /* justify content  center*/
+.justify-start{
+    display: flex;
+    justify-content: flex-start;
+}
+
 .justify-center{
     display: flex;
     justify-content: center;
+}
+
+.justify-end{
+    display: flex;
+    justify-content: flex-end;
+}
+
+.justify-around{
+    justify-content: space-around;
+}
+
+.justify-btw{
+    justify-content: space-between;
+}
+
+
+/* align-items */
+
+.align-start{
+    align-items: flex-start;
+}
+
+.align-center{
+    align-items: center;
+}
+
+.align-end{
+    align-items: flex-end;
+}
+
+/* align content */
+
+.align-content-betw{
+    align-content: space-between;
+}
+
+.align-content-around{
+    align-content: ;
+}
+
+/*  flex wrap */
+
+.wrap{
+    flex-wrap: wrap;
 }
 
 /* selettori colonne */

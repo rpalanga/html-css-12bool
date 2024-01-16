@@ -20,5 +20,11 @@
 }
 
 .height{
-    height: 26px;
+    height: 40px;
+}
+
+.height-2{
+    height: 30px;
+
+    padding: 4px;
 }
