@@ -1,3 +1,16 @@
-h1{
-    font-size: ;
+.test{
+    border: 1px solid white;
+    background-color: #2D6AF1;
+    color: white;
+
+    padding: 3px;
+}
+.test-2{
+    background-color: #66DE74;
+    border: 1px solid white;
+
+    color: white;
+    padding: 3px;
+    margin: 4px 0;
+
 }
